@@ -1,6 +1,6 @@
 # S25 Ultra Mastery — Obsidian Vault
 
-> Auto-synced · 2026-04-17 · 21 items
+> Auto-synced · 2026-04-18 · 24 items
 
 ## settings
 - [[settings/set-screen-resolution-to-qhd-31201440|Set screen resolution to QHD+ 3120×1440]]
@@ -19,6 +19,9 @@
 - [[galaxy-ai/enable-live-translate-for-calls|Enable Live Translate for calls]]
 - [[galaxy-ai/configure-now-bar|Configure Now Bar]]
 - [[galaxy-ai/explore-sketch-to-image-in-samsung-notes|Explore Sketch to Image in Samsung Notes]]
+- [[galaxy-ai/enable-live-translate|Enable Live Translate]]
+- [[galaxy-ai/customize-circle-to-search|Customize Circle to Search]]
+- [[galaxy-ai/explore-galaxy-ai-features|Explore Galaxy AI Features]]
 
 ## apps
 - [[apps/install-gcam-port-google-camera|Install Gcam Port (Google Camera)]]
